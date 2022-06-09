@@ -19,6 +19,7 @@ In your web browser set the file type to automatically open<br>
 
 https://user-images.githubusercontent.com/73427833/172898885-019fc6c9-3a38-4e4d-905b-09e9de182dc3.mp4
 
+**The console is hidden by default*
 
 # Configuration
 
