@@ -1,4 +1,6 @@
 {
     "remove-on-completion": false,
-    "open-on-completion": true
+    "open-on-completion": true,
+    "hideconsole": true,
+    "output-format": "png"
 }
