@@ -2,7 +2,7 @@
 Automatically convert .webp to .png, .jpg on download
 
 # How to use
-**This requires <a href="https://ffmpeg.org/">ffmpeg</a> to be installed and set as a enviroment variable**
+**This requires <a href="https://ffmpeg.org/">ffmpeg</a> to be installed and set as an enviroment variable**
 After you install the <a href="https://github.com/Vito510/webp-auto-convert/releases">newest release</a> find a webp file on your pc and open it with the exe.
 
 <h2>Automatic conversion</h2>
