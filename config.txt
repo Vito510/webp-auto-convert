@@ -1,0 +1,4 @@
+{
+    "remove-on-completion": false,
+    "open-on-completion": true
+}
