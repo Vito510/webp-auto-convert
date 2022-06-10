@@ -14,6 +14,14 @@ In your web browser set the file type to automatically open<br>
 ![image](https://user-images.githubusercontent.com/73427833/172930443-fe28fb9b-8229-464e-bbf6-60a8c3dae312.png) <br>
 <i>This is in chrome, it may be different in your web browser</i>
 
+<hr></hr>
+
+Or you can just run this in administrative mode
+```cmd
+assoc .webp=webpfile
+ftype webpfile="ABSOLUTE_PATH_TO_EXE" "%1"
+```
+
 
 # Example
 
